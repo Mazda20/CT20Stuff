@@ -1,0 +1,10 @@
+This week was pretty difficult compared to the past 2 weeks because we got introduced to more advanced stuff. 
+We looked at wall art and used that as a reference to make unique visuals in p5.js
+We learned how to use while loops more efficiently in order to repeat the same action over and over again. For example, while working on wall art, we used it to draw lines over and over again to make a grid.
+We also used functions such as drawcircles() and drawLines() to avoid repeating the same thing over and over again
+I did have some difficulty understanding how some of the incrementing values in the while loops worked!!
+I also made my own wall art based on Wall Drawing 365: https://editor.p5js.org/Mzdn77/sketches/qfEZfu0TV 
+Then we looked at balloons, and we made them bounce up and down, which helped me to get a clearer understanding of movement in p5.js.
+I learned about arrays and how they are used to store many objects at the same time
+I'm excited to start my first project, which will most likely be the Clock project.
+I'm also kind of nervous because I don't know how it will turn out, but it should be fun trying to figure it out.
