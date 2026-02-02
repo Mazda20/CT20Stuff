@@ -1,0 +1,21 @@
+This week was honestly my favorite week so far.
+I got to learn a bit about Blender and code in it, which was pretty cool.
+I didn't even know that coding on Blender was even an option, to be honest.
+Overall, it was pretty fun, but it was also confusing, because it was different.
+I got to make whatever I wanted on Blender, and then I also learned how to transfer what I made to p5js.
+The whole process was pretty long, and it felt kind of hard, but it's one of those things that I will get used to if I keep doing it over and over again.
+It would be cool to use Blender in one of my future projects, because I feel like in Blender you are less limited to what you can make, when compared to p5js.
+Here is what I made and transferred. Honestly, I just mixed some random shapes because I didn't really know what to make: https://editor.p5js.org/Mzdn77/full/s8zGD-XBv
+I also got to work on and finish my first project this week, which was the clock project.
+At first, I wasn't really sure how I wanted to approach this project, but after thinking about it for some time, I was able to come up with something.
+I decided to make a visual clock that shows time passing through falling purple rain, and a cup that slowly fills up with the liquid that comes from the rain.
+How it works: Basically, the raindrops are supposed to represent the seconds that pass, and the amount of liquid that's in the cup is supposed to represent the minutes that are in the current hour.
+So, for example, if the current hour is something like 4:30, the cup will be about halfway full, but if the current hour is like 4:00, the cup will be empty, or if the current hour is 4:59, the cup will be filled all the way.
+Writing the code was kind of challenging, to be honest, especially when I had to write the coordinates for my objects. 
+Getting the coordinates exactly right for my objects (like the cup, the raindrop, the liquid in the cup, etc.) was pretty frustrating.
+But after a lot of trial and error, I was finally able to get the coordinates where I wanted them.
+I also used the map() function in my code, and honestly, at first it was a bit confusing, but after playing around with it, I was able to get the hang of it.
+The map() function was really useful in my project because it let me control movement and position based on the current time.
+At first, my project was just regular water and a regular raindrop, but when I was working on it, the song "Purple Rain" by Prince popped up in my head, and I decided to kind of use that as my theme, to make my project look cooler.
+Here is my clock project: https://editor.p5js.org/Mzdn77/full/uvVLkta-c
+Overall, I had a lot of fun this week. I got to experiment with new things and ideas, and I actually got to be creative while coding, which was really cool!
